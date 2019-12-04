@@ -1,6 +1,6 @@
 # The Revenue Recognition Problem
 
-// TODO: Add article link
+IntelliJ Kotlin example from [article link]
 
 ## Notes
 
